@@ -27,7 +27,6 @@ NEXTAUTH_URL=
 NEXTAUTH_URL_INTERNAL=
 NEXTAUTH_AUTH_SECRET=
 
-💻 Screen Shoo t💻
-
+# Screenshot
 ![alt text](1.png)
 ![alt text](2.png)
