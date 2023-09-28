@@ -9,9 +9,9 @@ const Home = () => {
         <br className="max-md:hidden" />
       </h1>
       <p className="desc text-center">
-        Whether you're a novice blogger seeking inspiration or a seasoned writer
-        in search of fresh ideas, Blog Prompt is the perfect tool to assist you
-        in creating compelling content.
+        {
+          "Whether you're a novice blogger seeking inspiration or a seasoned writer in search of fresh ideas, Blog Prompt is the perfect tool to assist you in creating compelling content."
+        }
       </p>
       <Feed />
     </div>
