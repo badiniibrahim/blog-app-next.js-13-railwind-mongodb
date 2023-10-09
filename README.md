@@ -1,6 +1,6 @@
 ## Building a Fullstack Blog App with React, NextJS, TailwindCSS & MongoDB
 
-Blog App  Full Stack app development with Next.js 12, React, Tailwind, and MongoDB.
+Blog App  Full Stack app development with Next.js 13, React, Tailwind, and MongoDB.
 
 # Features:
 ⚙️ 💾 Environment, Typescript, NextJS Setup
@@ -14,17 +14,22 @@ Detail-oriented effects and animations using TailwindCSS
 React SWR data fetching
 
 🛰️ 🌐 🗄 📡 Technologies
-Next 12 (Pages routing)
+Next 13
 React
 Tailwind
 MongoDB
 
 🔐 Setup .env file
 GOOGLE_ID=
+
 GOOGLE_CLIENT_SECRET=
+
 MONGODB_URI=
+
 NEXTAUTH_URL=
+
 NEXTAUTH_URL_INTERNAL=
+
 NEXTAUTH_AUTH_SECRET=
 
 # Screenshot
