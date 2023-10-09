@@ -7,6 +7,7 @@ Blog App  Full Stack app development with Next.js 13, React, Tailwind, and Mongo
 ![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/blog-app-next.js-13-tailwindCSS-mongodb)
 ![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/blog-app-next.js-13-tailwindCSS-mongodb)
 ![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/blog-app-next.js-13-tailwindCSS-mongodb)
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style&logo=JavaScript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style&logo=React&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
